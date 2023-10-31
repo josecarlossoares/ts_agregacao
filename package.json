@@ -1,0 +1,17 @@
+{
+  "name": "project_ts",
+  "version": "1.0.0",
+  "description": "estudos sobre agregação em typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "José Carlos",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
